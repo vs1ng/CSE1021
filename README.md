@@ -13,21 +13,41 @@
 - Arithmetic: Modular arithmetic implementation
 - Algorithm: Euclidean algorithm usage
 
-## Performance Metrics
+## Performance.
 
-| Week   | Problem Name                    | ID | Execution Time (s) | Memory Used |
-|--------|---------------------------------|----|--------------------|------------|
-| Week 2 | Factorial Calculation           | 1  | 0.0009521456       | 375 KB     |
-| Week 2 | Palindrome Check                | 2  | 0.0010234812       | 389 KB     |
-| Week 3 | Digital Root                    | 3  | 0.0021456987       | 412 KB     |
-| Week 3 | Abundant Number Check           | 4  | 0.0035698741       | 580 KB     |
-| Week 4 | Prime Factors Generation        | 5  | 0.0048721365       | 892 KB     |
-| Week 4 | Distinct Prime Factors          | 6  | 0.0051236987       | 1.1 MB     |
-| Week 5 | Mersenne Prime Check            | 7  | 0.0065478214       | 2.4 MB     |
-| Week 5 | Amicable Numbers                | 8  | 0.0072145698       | 3.2 MB     |
-| Week 6 | Modular Exponentiation          | 9  | 0.0015698423       | 450 KB     |
-| Week 6 | Chinese Remainder Theorem       | 10 | 0.0028745691       | 620 KB     |
-| Week 7 | Lucas Sequence Generator        | 11 | 0.0081452369       | 4.8 MB     |
-| Week 7 | Carmichael Number Check         | 12 | 0.0084569871       | 5.1 MB     |
-| Week 8 | Miller-Rabin Primality Test     | 13 | 0.0087645361       | 5.9 MB     |
-| Week 8 | Pollard's Rho Algorithm         | 14 | 0.0086521478       | 5.7 MB     |
+| Week | Problem | Time (s) | Memory |
+| :--- | :--- | :--- | :--- |
+| Week-2 | Factorial | 0.0026858230 | 549kb |
+| Week-2 | Palindrome | 0.0060047846 | 1.4mb |
+| Week-2 | Mean-digits | 0.0055103860 | 3.9mb |
+| Week-2 | Digital-root | 0.0038782387 | 3.9mb |
+| Week-2 | Abundant-check | 0.0031433707 | 3.3mb |
+| Week-3 | Deficient-check | 0.0039121519 | 4.6mb |
+| Week-3 | Harshad-number | 0.0085496065 | 2.3mb |
+| Week-3 | Automorphic | 0.0040338684 | 3.4mb |
+| Week-3 | Pronic-check | 0.0066894787 | 3.6mb |
+| Week-3 | Prime-factors | 0.0083412552 | 1.8mb |
+| Week-4 | Distinct-factors | 0.0063045746 | 2.5mb |
+| Week-4 | Prime-power | 0.0045819897 | 5.3mb |
+| Week-4 | Mersenne-prime | 0.0027382959 | 2.2mb |
+| Week-4 | Twin-primes | 0.0031163789 | 3.8mb |
+| Week-4 | Count-divisors | 0.0032815498 | 2.4mb |
+| Week-5 | Aliquot-sum | 0.0073137859 | 3.9mb |
+| Week-5 | Amicable-numbers | 0.0018982075 | 5.6mb |
+| Week-5 | Multiplicative-persistence | 0.0061633958 | 3.8mb |
+| Week-5 | Highly-composite | 0.0027189988 | 2.2mb |
+| Week-5 | Modular-exponentiation | 0.0085454360 | 4.1mb |
+| Week-6 | Chinese-remainder | 0.0084659453 | 3.9mb |
+| Week-6 | Extended-GCD | 0.0032834125 | 374kb |
+| Week-6 | Quadratic-residue | 0.0078380357 | 4.5mb |
+| Week-6 | Order-modulo | 0.0017546360 | 3.2mb |
+| Week-6 | Fibonacci-prime | 0.0069289039 | 2.0mb |
+| Week-7 | Lucas-sequence | 0.0062265986 | 2.8mb |
+| Week-7 | Perfect-power | 0.0030545125 | 2.3mb |
+| Week-7 | Collatz-length | 0.0041747370 | 3.9mb |
+| Week-7 | Polygonal-numbers | 0.0057676868 | 3.9mb |
+| Week-7 | Carmichael-check | 0.0077919792 | 5.5mb |
+| Week-8 | Miller-Rabin | 0.0014319224 | 5.9mb |
+| Week-8 | Pollard-Rho | 0.0075809934 | 3.3mb |
+| Week-8 | Zeta-approximation | 0.0043916150 | 3.2mb |
+| Week-8 | Partition-function | 0.0077597643 | 2.3mb |
