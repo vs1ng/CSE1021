@@ -1,4 +1,9 @@
 # CSE1021
+
+## Local Git Log
+
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/2cad7629-139d-494e-8156-ac39214ff7f8" />
+
 ## Setup / Environment
 
 - Language: Python 3.11
